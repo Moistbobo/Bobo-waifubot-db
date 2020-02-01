@@ -1,0 +1,1 @@
+mongoexport --db=bobo-waifubot --collection=characters --out=bobo-waifubot-output.json
