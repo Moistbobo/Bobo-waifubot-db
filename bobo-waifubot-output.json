@@ -113,3 +113,10 @@
 {"_id":{"$oid":"5e3af77edb1f6f5f9a98a87d"},"nameAlt":[],"images":["https://i.imgur.com/YyoH9Zr.png"],"name":"Aoba Suzukaze","nameJp":"涼風 青葉","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
 {"_id":{"$oid":"5e3af77edb1f6f5f9a98a880"},"nameAlt":[],"images":["https://i.imgur.com/TvSeJ3Q.png"],"name":"Hajime Shinoda","nameJp":"篠田 はじめ","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
 {"_id":{"$oid":"5e3af77edb1f6f5f9a98a883"},"nameAlt":[],"images":["https://i.imgur.com/Cct6tRz.png"],"name":"Rin Toyama","nameJp":"遠山 りん","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afa96db1f6f5f9a98aa1f"},"nameAlt":[],"images":["https://i.imgur.com/RLqP7YK.png"],"name":"Misa Toudou","nameJp":"藤堂 美沙","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb5fdb1f6f5f9a98aa72"},"nameAlt":[],"images":["https://i.imgur.com/8Va4Vcf.png"],"name":"Erika Yano","nameJp":"矢野 エリカ","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb5fdb1f6f5f9a98aa75"},"nameAlt":[],"images":["https://i.imgur.com/9UuyHeb.png"],"name":"Shizuka Sakaki","nameJp":"坂木 しずか","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb60db1f6f5f9a98aa78"},"nameAlt":[],"images":["https://i.imgur.com/3QcgQnk.png"],"name":"Rinko Ogasawara","nameJp":"小笠原 綸子","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb60db1f6f5f9a98aa7b"},"nameAlt":[],"images":["https://i.imgur.com/LkFoPKg.png"],"name":"Ema Yasuhara","nameJp":"安原 絵麻","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb60db1f6f5f9a98aa7e"},"nameAlt":[],"images":["https://i.imgur.com/G39nhgP.png"],"name":"Midori Imai","nameJp":"今井みどり","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3afb60db1f6f5f9a98aa81"},"nameAlt":[],"images":["https://i.imgur.com/e0h9t6o.png"],"name":"Aoi Miyamori","nameJp":"宮森 あおい","gender":"F","series":"SHIROBAKO","type":"manga","meta":"","__v":0}
