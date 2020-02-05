@@ -124,3 +124,31 @@
 {"_id":{"$oid":"5e3afffcdb1f6f5f9a98acfb"},"nameAlt":["Narucchi"],"images":["https://i.imgur.com/COJQydA.png"],"name":"Tsubame Narumi","nameJp":"鳴海 ツバメ","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
 {"_id":{"$oid":"5e3afffcdb1f6f5f9a98acfe"},"nameAlt":["Momo-chan"],"images":["https://i.imgur.com/COJQydA.png"],"name":"Momiji Mochizuki","nameJp":"望月 紅葉","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
 {"_id":{"$oid":"5e3afffcdb1f6f5f9a98ad01"},"nameAlt":[],"images":["https://i.imgur.com/BcjApTM.png"],"name":"Yun Iijima","nameJp":"飯島ゆん","gender":"F","series":"New Game!","type":"manga","meta":"","__v":0}
+{"_id":{"$oid":"5e3b0646db1f6f5f9a98b1e2"},"name":"Ramius Dreissen","nameJp":"ラミアス・ドライセン","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/yAcscu6.png"],"meta":""}
+{"_id":{"$oid":"5e3b0646db1f6f5f9a98b1e5"},"name":"Riche Eden","nameJp":"リッシュ・エデン","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/YJPr8Sq.png"],"meta":""}
+{"_id":{"$oid":"5e3b0646db1f6f5f9a98b1e8"},"name":"Gurigura","nameJp":"グリグラ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/IvVP1ee.png"],"meta":""}
+{"_id":{"$oid":"5e3b0647db1f6f5f9a98b1eb"},"name":"Kathryn Lapucelle","nameJp":"キャスリン・ラピュセル","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/yAcscu6.png"],"meta":""}
+{"_id":{"$oid":"5e3b080bdb1f6f5f9a98b37c"},"name":"Tilt","nameJp":"ティルト","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/GgHC1f0.png"],"meta":""}
+{"_id":{"$oid":"5e3b080cdb1f6f5f9a98b37f"},"name":"Colpis","nameJp":"コルピス","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/IbfySbm.png"],"meta":""}
+{"_id":{"$oid":"5e3b080cdb1f6f5f9a98b382"},"name":"Croix Eden","nameJp":"クロア・エデン","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/jI09CJ0.png"],"meta":""}
+{"_id":{"$oid":"5e3b089bdb1f6f5f9a98b3d6"},"name":"Louin Eden","nameJp":"ルイン・エデン","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/v4imG2s.png"],"meta":""}
+{"_id":{"$oid":"5e3b08a5db1f6f5f9a98b3e0"},"name":"Barro Roan","nameJp":"バーロ・ロアン","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/KWszfqO.png"],"meta":""}
+{"_id":{"$oid":"5e3b08a6db1f6f5f9a98b3e4"},"name":"Acheval Dreissen","nameJp":"アシュバル・ドライセン","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/sLH7GdW.png"],"meta":""}
+{"_id":{"$oid":"5e3b09b4db1f6f5f9a98b47c"},"name":"Tio","nameJp":"ティオ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/KV7xK8m.png"],"meta":""}
+{"_id":{"$oid":"5e3b09b4db1f6f5f9a98b47f"},"name":"Lorenzo Kalar","nameJp":"ロレンソ・カラー","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/0h5mu3X.png"],"meta":""}
+{"_id":{"$oid":"5e3b09b5db1f6f5f9a98b483"},"name":"Mertel Kalar","nameJp":"メルテル・カラー","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/tsOgd6b.png"],"meta":""}
+{"_id":{"$oid":"5e3b09b5db1f6f5f9a98b486"},"name":"Natal March","nameJp":"ナタール・マーチ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/gkFqjwY.png"],"meta":""}
+{"_id":{"$oid":"5e3b09d9db1f6f5f9a98b4b1"},"name":"Erimo","nameJp":"エリモ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/2QDSZiG.png"],"meta":""}
+{"_id":{"$oid":"5e3b09d9db1f6f5f9a98b4b4"},"name":"Ophelia","nameJp":"オフィーリア","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/0RaBuMm.png"],"meta":""}
+{"_id":{"$oid":"5e3b09dadb1f6f5f9a98b4b7"},"name":"Towa","nameJp":"トワ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/LWXVEJZ.png"],"meta":""}
+{"_id":{"$oid":"5e3b0a5adb1f6f5f9a98b503"},"name":"Laurent","nameJp":"ローラン","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/4eP9kD2.png"],"meta":""}
+{"_id":{"$oid":"5e3b0a5adb1f6f5f9a98b506"},"name":"Burst","nameJp":"バースト","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/DTpt1xX.png"],"meta":""}
+{"_id":{"$oid":"5e3b0a5bdb1f6f5f9a98b509"},"name":"Silent","nameJp":"サイレント","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/1zXaeNn.png"],"meta":""}
+{"_id":{"$oid":"5e3b0a5bdb1f6f5f9a98b50c"},"name":"Millet","nameJp":"ミレー","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/uyW0C6F.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b42db1f6f5f9a98b57f"},"name":"Qu Dragon","nameJp":"クゥ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/rYjpUQj.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b43db1f6f5f9a98b582"},"name":"Kyou","nameJp":"キョウ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/Px4HdNp.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b43db1f6f5f9a98b585"},"name":"Kinou","nameJp":"キノウ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/giKQnsr.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b43db1f6f5f9a98b588"},"name":"Beauty","nameJp":"ビューティー","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/9pBdTUU.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b44db1f6f5f9a98b58c"},"name":"Yarase","nameJp":"ヤラセ","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/S26OKSd.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b44db1f6f5f9a98b58f"},"name":"Sora","nameJp":"ソラ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/SCi9Fyh.png"],"meta":""}
+{"_id":{"$oid":"5e3b0b44db1f6f5f9a98b592"},"name":"Arthur (Evenicle)","nameJp":"アーサー","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/1tzr7qO.png"],"meta":""}
