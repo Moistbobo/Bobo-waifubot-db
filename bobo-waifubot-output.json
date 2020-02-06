@@ -152,3 +152,9 @@
 {"_id":{"$oid":"5e3b0b44db1f6f5f9a98b58c"},"name":"Yarase","nameJp":"ヤラセ","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/S26OKSd.png"],"meta":""}
 {"_id":{"$oid":"5e3b0b44db1f6f5f9a98b58f"},"name":"Sora","nameJp":"ソラ","nameAlt":[],"gender":"F","series":"Evenicle","type":"vn","images":["https://i.imgur.com/SCi9Fyh.png"],"meta":""}
 {"_id":{"$oid":"5e3b0b44db1f6f5f9a98b592"},"name":"Arthur (Evenicle)","nameJp":"アーサー","nameAlt":[],"gender":"M","series":"Evenicle","type":"vn","images":["https://i.imgur.com/1tzr7qO.png"],"meta":""}
+{"_id":{"$oid":"5e3ba250db1f6f5f9a991c2d"},"name":"Golem","nameJp":"ゴーレム","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/ylJcjPG.png","https://i.imgur.com/pS3qkHS.png"],"meta":""}
+{"_id":{"$oid":"5e3ba251db1f6f5f9a991c30"},"name":"Somali","nameJp":"ソマリ","nameAlt":[],"gender":"F","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/sJsXCYI.png","https://i.imgur.com/ph9TBFS.png"],"meta":""}
+{"_id":{"$oid":"5e3ba251db1f6f5f9a991c33"},"name":"Shizuno","nameJp":"シズノ","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/ZHeMxIL.png"],"meta":""}
+{"_id":{"$oid":"5e3ba252db1f6f5f9a991c36"},"name":"Yabashira","nameJp":"ヤバシラ","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/lKbS2hy.png"],"meta":""}
+{"_id":{"$oid":"5e3ba252db1f6f5f9a991c39"},"name":"Uzoi","nameJp":"ウゾイ","nameAlt":[],"gender":"F","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/cfXxQJZ.png"],"meta":""}
+{"_id":{"$oid":"5e3ba252db1f6f5f9a991c3d"},"name":"Haitora","nameJp":"ハイトラ","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/k522RPJ.png"],"meta":""}
