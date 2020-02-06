@@ -158,3 +158,6 @@
 {"_id":{"$oid":"5e3ba252db1f6f5f9a991c36"},"name":"Yabashira","nameJp":"ヤバシラ","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/lKbS2hy.png"],"meta":""}
 {"_id":{"$oid":"5e3ba252db1f6f5f9a991c39"},"name":"Uzoi","nameJp":"ウゾイ","nameAlt":[],"gender":"F","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/cfXxQJZ.png"],"meta":""}
 {"_id":{"$oid":"5e3ba252db1f6f5f9a991c3d"},"name":"Haitora","nameJp":"ハイトラ","nameAlt":[],"gender":"M","series":"Somali and the Forest Spirit","type":"manga","images":["https://i.imgur.com/k522RPJ.png"],"meta":""}
+{"_id":{"$oid":"5e3ba36bdb1f6f5f9a991cde"},"name":"Midori Asakusa","nameJp":"浅草みどり","nameAlt":[],"gender":"F","series":"Eizouken ni wa Te wo Dasu na!","type":"manga","images":["https://i.imgur.com/df4gNun.png","https://i.imgur.com/zvUBPEa.png"],"meta":""}
+{"_id":{"$oid":"5e3ba36bdb1f6f5f9a991ce1"},"name":"Sayaka Kanamori","nameJp":"金森さやか","nameAlt":[],"gender":"F","series":"Eizouken ni wa Te wo Dasu na!","type":"manga","images":["https://i.imgur.com/uWrWp7Y.png","https://i.imgur.com/IX5Gvup.png"],"meta":""}
+{"_id":{"$oid":"5e3ba36bdb1f6f5f9a991ce5"},"name":"Tsubame Mizusaki","nameJp":"水崎ツバメ","nameAlt":[],"gender":"F","series":"Eizouken ni wa Te wo Dasu na!","type":"manga","images":["https://i.imgur.com/IJK6UFg.png"],"meta":""}
